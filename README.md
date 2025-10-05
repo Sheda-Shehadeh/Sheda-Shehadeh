@@ -9,6 +9,11 @@ Tools and Technologies: Git/Github, Replit, Jupyter Notebooks, Google Colab, Uni
 - A book reccomender system. I love discovering new books and thought what better way than through a reccomendation app of my own creation?
 - Using Figma, Replit, HTML, TypeScript.
 
+### 📚 What I'm Currently Reading:
+[Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+
+
+
 <!--
 **Sheda-Shehadeh/Sheda-Shehadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
