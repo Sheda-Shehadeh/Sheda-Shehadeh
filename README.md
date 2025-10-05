@@ -3,7 +3,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 
 ### 🛠️ Tech Stack:
 Languages: C++, C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
-Tools and Technologies: Git/Github, Replit, Jupyter Notebooks, Google Colab, Unity, Figma, Photoshop, LaTeX, VSCode
+Tools and Technologies: Git/Github, Replit Agent, Jupyter Notebooks, Google Colab, Unity, Figma, Photoshop, LaTeX, VSCode
 
 ### 📖 What I'm Working On Currently: [NextChapter](https://github.com/Sheda-Shehadeh/Book-Recommender-System.git)
 - A book reccomender system. I love discovering new books and thought what better way than through a reccomendation app of my own creation?
