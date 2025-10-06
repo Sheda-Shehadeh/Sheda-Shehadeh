@@ -2,15 +2,23 @@
 I'm a recent UC Davis Computer Science and English graduate. I have a passion for combining creativity and technology. Whether it's through writing, coding, or designing user-centered solutions, I enjoy exploring how language and logic can connect to solve real-world problems. I love books and tech!
 
 ### 🛠️ Tech Stack:
-Languages: C++, C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
-Tools and Technologies: Git/Github, Replit Agent, Jupyter Notebooks, Google Colab, Unity, Figma, Photoshop, LaTeX, VSCode
+**Languages:** C++, C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
+
+**Tools and Technologies:** Git/Github, Jupyter Notebooks, Google Colab, Unity, Figma, Photoshop, LaTeX, VSCode, Replit
 
 ### 📖 What I'm Working On Currently: [NextChapter](https://github.com/Sheda-Shehadeh/Book-Recommender-System.git)
-- A book reccomender system. I love discovering new books and thought what better way than through a reccomendation app of my own creation?
-- Using Figma, Replit, HTML, TypeScript.
+- A personal book recommender system that helps readers discover new books.
+- Building with Replit, HTML, TypeScript, and Figma
+- Currently experimenting with TF-IDF and exploring other AI-based recommendation models
+- Inspired by my love of books and storytelling
+- 💬 Ask me about it!
 
-### 📚 What I'm Currently Reading:
+### 👩‍🏫 Currently Learning
+- Typescript
+
+### 📚 Currently Reading:
 [Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+
 
 
 
