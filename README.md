@@ -1,5 +1,5 @@
 ## Hi I'm Sheda Shehadeh 👋
-I'm a recent UC Davis Computer Science and English graduate. I have a passion for combining creativity and technology. Whether it's through writing, coding, or designing user-centered solutions, I enjoy exploring how language and logic can connect to solve real-world problems. I love books and tech!
+I'm a recent UC Davis Computer Science and English graduate. I have a passion for combining creativity and technology. Whether it's through writing, coding, I enjoy exploring how language and logic can connect to solve real-world problems. I love books and tech!
 
 ### 🛠️ Tech Stack:
 **Languages:** C++, C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
