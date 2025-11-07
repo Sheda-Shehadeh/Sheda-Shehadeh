@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[Pride and Prejudice](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) by Jane Austen
+[Ruthless Vows](https://www.goodreads.com/book/show/127280062-ruthless-vows) by Rebecca Ross
 
 
 
