@@ -2,7 +2,7 @@
 I'm a recent UC Davis Computer Science and English graduate. I have a passion for combining creativity and technology. Whether it's through writing, coding, I enjoy exploring how language and logic can connect to solve real-world problems. I love books and tech!
 
 ### 🛠️ Tech Stack:
-**Languages:** C++, C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
+**Languages:** C++ (advanced), C, Java, Python, C#, HTML, CSS, Javascript, R, Markdown
 
 **Tools and Technologies:** Git/Github, Jupyter Notebooks, Google Colab, Unity, Figma, Photoshop, LaTeX, VSCode, Replit
 
