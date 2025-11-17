@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[Ruthless Vows](https://www.goodreads.com/book/show/127280062-ruthless-vows) by Rebecca Ross
+[The Rose Bargain](https://www.goodreads.com/book/show/211742041-the-rose-bargain) by Sasha Peyton Smith
 
 
 
