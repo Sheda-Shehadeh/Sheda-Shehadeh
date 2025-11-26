@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[The Winner's Curse](https://www.goodreads.com/book/show/16069030-the-winner-s-curse) by Marie Rutkoski
+[The Winner's Crime](https://www.goodreads.com/book/show/20443207-the-winner-s-crime) by Marie Rutkoski
 
 
 
