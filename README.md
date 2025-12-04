@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[Dating and Dragons](https://www.goodreads.com/book/show/209997824-dating-and-dragons) by Kristy Boyce
+[The Bodyguard](https://www.goodreads.com/book/show/58724801-the-bodyguard?from_search=true&from_srp=true&qid=AWGoVN6Fse&rank=1) by Katherine Center
 
 
 
