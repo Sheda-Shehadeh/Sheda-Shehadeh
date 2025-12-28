@@ -8,7 +8,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 
 ### 📖 What I'm Working On Currently: [NextChapter](https://github.com/Sheda-Shehadeh/Book-Recommender-System.git)
 - A personal book recommender system that helps readers discover new books.
-- Building with Replit, HTML, TypeScript, and Figma
+- Building with Replit, HTML, TypeScript, CSS, and Figma
 - Currently experimenting with TF-IDF model and exploring other ML-based recommendation models
 - Inspired by my love of books and storytelling
 - 💬 Ask me about it!
