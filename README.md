@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[Shatter Me](https://www.goodreads.com/book/show/10429045-shatter-me) by Tahereh Mafi
+[You Deserve Each Other](https://www.goodreads.com/book/show/50027029-you-deserve-each-other) by Sarah Hogle
 
 
 
