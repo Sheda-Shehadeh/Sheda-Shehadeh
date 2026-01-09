@@ -17,7 +17,7 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 - Typescript
 
 ### 📚 Currently Reading:
-[You Deserve Each Other](https://www.goodreads.com/book/show/50027029-you-deserve-each-other) by Sarah Hogle
+[Alchemy of Secrets](https://www.goodreads.com/book/show/222706197-alchemy-of-secrets) by Stephanie Garber
 
 
 
