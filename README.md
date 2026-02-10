@@ -15,9 +15,10 @@ I'm a recent UC Davis Computer Science and English graduate. I have a passion fo
 
 ### 👩‍🏫 Currently Learning
 - Typescript
+- React
 
 ### 📚 Currently Reading:
-[Alchemy of Secrets](https://www.goodreads.com/book/show/222706197-alchemy-of-secrets) by Stephanie Garber
+[A Stage Set for Villains](https://www.goodreads.com/book/show/224009620-a-stage-set-for-villains) by Shannon J. Spann
 
 
 
